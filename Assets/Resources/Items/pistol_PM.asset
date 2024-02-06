@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a714ce6d5bcf41b411232da352e4c, type: 3}
+  m_Name: pistol_PM
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8808951470041095491, guid: f19d865f99614de4d995cc0b76a568fc, type: 3}
+  FPSprefab: {fileID: 3266638064579671788, guid: e95434d2d3bbc634e8010149f579f985, type: 3}
+  sprite: {fileID: 21300000, guid: 7f52dad19fccf5941baa2561feab1c04, type: 3}
+  name: pistol_PM
+  prefabName: pistol_PM
+  quantity: 1
+  description: Standard Soviet pistol used by the police and other law enforcement
+    agencies. Uses ammo 9x18mm.
+  selected: 0
+  maxAmount: 1
+  weight: 0.7
+  id: 4
+  damage: 60
+  cooldown: 0.7
+  magazine: {fileID: 0}

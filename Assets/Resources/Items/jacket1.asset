@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 894a3538f9cf7ed4a90b9bb22b778d54, type: 3}
+  m_Name: jacket1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2168817129419863393, guid: c54c190a9cf80d0449d754089e7c466c, type: 3}
+  FPSprefab: {fileID: 0}
+  sprite: {fileID: 0}
+  name: jacket1
+  prefabName: jacket1
+  quantity: 1
+  description: Really good leather jacket.
+  selected: 0
+  maxAmount: 1
+  weight: 3
+  id: 12
+  armor: 0
+  wormth: 0
+  slotNumber: 2

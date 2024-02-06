@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd7bf63a33248904588ff2e91eaa7732, type: 3}
+  m_Name: bandage
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2953595098868884438, guid: b9c3af1f9294442499717e94c1981d6f, type: 3}
+  FPSprefab: {fileID: 0}
+  sprite: {fileID: 0}
+  name: bandage
+  prefabName: bandage
+  quantity: 1
+  description: Simple cotton bandage. Use to stop bool leak.
+  selected: 0
+  maxAmount: 1
+  weight: 0.3
+  id: 14
+  initialBites: 3
+  bites: 3
+  healthPoints: 15
+  eaten: 0
+  useSound: {fileID: 8300000, guid: 03a43420b958d374fbcfe4b12b585ebc, type: 3}

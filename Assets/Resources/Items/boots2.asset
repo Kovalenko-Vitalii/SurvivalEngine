@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 894a3538f9cf7ed4a90b9bb22b778d54, type: 3}
+  m_Name: boots2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7576471255097391962, guid: 58c0aa4775fa7044f9defd22a801a05e, type: 3}
+  FPSprefab: {fileID: 0}
+  sprite: {fileID: 0}
+  name: boots2
+  prefabName: boots2
+  quantity: 1
+  description: Brand new working boots, good quality and insulation.
+  selected: 0
+  maxAmount: 1
+  weight: 2
+  id: 10
+  armor: 0
+  wormth: 0
+  slotNumber: 4

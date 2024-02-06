@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd7bf63a33248904588ff2e91eaa7732, type: 3}
+  m_Name: penicilline
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4531985255850347191, guid: 326d5447c29e10648a6ab32e3d41e239, type: 3}
+  FPSprefab: {fileID: 0}
+  sprite: {fileID: 0}
+  name: penicilline
+  prefabName: penicilline
+  quantity: 1
+  description: Strong antibiotic, first time was used in World War 1.
+  selected: 0
+  maxAmount: 1
+  weight: 0.4
+  id: 15
+  initialBites: 5
+  bites: 5
+  healthPoints: 10
+  eaten: 0

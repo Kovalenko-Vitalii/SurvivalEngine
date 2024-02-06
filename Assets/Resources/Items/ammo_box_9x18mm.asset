@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b64afe0e9f9034ea563eed684a2783, type: 3}
+  m_Name: ammo_box_9x18mm
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3042575886900510924, guid: a48bf958d60cdd84e9ac917045186361, type: 3}
+  FPSprefab: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 082c02d67dd89d14081214e57c9bc723, type: 3}
+  name: ammo_box_9x18mm
+  prefabName: ammo_box_9x18mm
+  quantity: 10
+  description: Old and rusty box of 9x18mm ammo for PM pistol.
+  selected: 0
+  maxAmount: 40
+  weight: 0.05
+  id: 1
+  caliber: 9x18
